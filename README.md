@@ -17,3 +17,8 @@ Laravel Developer Interview Questions to be used for interviewing potential Lara
 9. What are Laravel Facades? Why should we use them? How did you use one last time around?
 10. What are Laravel Service Providers used for? Give an example in one of your projects?
 
+## Sources
+
+https://www.onlineinterviewquestions.com/laravel-interview-questions/
+https://codingcompiler.com/laravel-interview-questions-answers/
+https://codetiburon.com/how-to-choose-the-best-laravel-developers/
