@@ -26,7 +26,12 @@ Laravel Developer Interview Questions to be used for interviewing potential Lara
 15. Form Validation - How do I validate a zip Dutch code / email address / password w 15 chars, at least one lower, upper case letter, one special char and one number?
 16. SEO issues in SPA - How do you deal with this with Vue routing to register users with Google Analytics?
 17. When registering a tablet or mobile as a quest to your application what can you find out about the device with server side code and what with frontend code? What plugins and or packages do you recommend?
+18.  What does 
+```
+Route::group(['prefix' => 'dashboard', 'middleware' => ['auth', 'subcheck'], 'namespace' => 'Dashboard'], function () {
+```
 
+do for routes included in that code part in web.php. What is a group in this case?
 ## Sources
 
 * https://www.onlineinterviewquestions.com/laravel-interview-questions/
