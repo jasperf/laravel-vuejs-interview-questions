@@ -31,7 +31,7 @@ Laravel Developer Interview Questions to be used for interviewing potential Lara
 Route::group(['prefix' => 'dashboard', 'middleware' => ['auth', 'subcheck'], 'namespace' => 'Dashboard'], function () {
 ```
 
-do for routes included in that code part in web.php. What is a group in this case?
+do for routes included in that code part in *web.php*? What is a prefix for? What is a group in this case?
 ## Sources
 
 * https://www.onlineinterviewquestions.com/laravel-interview-questions/
