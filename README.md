@@ -18,6 +18,7 @@ Laravel Developer Interview Questions to be used for interviewing potential Lara
 10. What are Laravel Service Providers used for? Give an example in one of your projects?
 11. Name 5 Laravel Packages you have used the most and can heartily recommend.
 12. Axios Errors - How do you debug them?
+13. Form Validation - How do I validate a zip Dutch code / email address / password w 15 chars, at least one lower, upper case letter, one special char and one number?
 
 ## Sources
 
