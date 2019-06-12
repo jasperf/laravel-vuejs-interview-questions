@@ -2,7 +2,7 @@
 Laravel Developer Interview Questions to be used for interviewing potential Laravel Developers. VueJs related questions will also be included here for frontend work.
 
 
-##General
+## General
 
 1. What is your Laravel experience like? Is Laravel populair in x?
 2. Describe a typical working day in your life. Do you work at home or elsewhere? What hours do you keep?
@@ -14,4 +14,6 @@ Laravel Developer Interview Questions to be used for interviewing potential Lara
 6. How is Type Hinting used in Laravel?
 7. Name the main difference between Laravel 4 and Laravel 5.x
 8. What is Laravel Eloquent?
+9. What are Laravel Facades? Why should we use them? How did you use one last time around?
+10. What are Laravel Service Providers used for? Give an example in one of your projects?
 
