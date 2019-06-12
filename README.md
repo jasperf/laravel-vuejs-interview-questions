@@ -4,7 +4,7 @@ Laravel Developer Interview Questions to be used for interviewing potential Lara
 
 ## General
 
-1. What is your Laravel experience like? Is Laravel populair in x?
+1. What is your Laravel experience like? Is Laravel populair in x? Why so?
 2. Describe a typical working day in your life. Do you work at home or elsewhere? What hours do you keep?
 3. Why did you become a developer?
 
@@ -18,7 +18,11 @@ Laravel Developer Interview Questions to be used for interviewing potential Lara
 10. What are Laravel Service Providers used for? Give an example in one of your projects?
 11. Name 5 Laravel Packages you have used the most and can heartily recommend.
 12. Axios Errors - How do you debug them?
+
+## Code Questions
+
 13. Form Validation - How do I validate a zip Dutch code / email address / password w 15 chars, at least one lower, upper case letter, one special char and one number?
+14. SEO issues in SPA - How do you deal with this with Vue routing to register users with Google Analytics?
 
 ## Sources
 
