@@ -17,13 +17,15 @@ Laravel Developer Interview Questions to be used for interviewing potential Lara
 9. What are Laravel Facades? Why should we use them? How did you use one last time around?
 10. What are Laravel Service Providers used for? Give an example in one of your projects?
 11. Name 5 Laravel Packages you have used the most and can heartily recommend.
-12. Axios Errors - How do you debug them? What tools do you use for it?
+12. Database Migrations - What is so useful about them?
+13. Axios Errors - How do you debug them? What tools do you use for it?
 
 ## Code Questions
 
-13. Form Validation - How do I validate a zip Dutch code / email address / password w 15 chars, at least one lower, upper case letter, one special char and one number?
-14. SEO issues in SPA - How do you deal with this with Vue routing to register users with Google Analytics?
-15. When registering a tablet or mobile as a quest to your application what can you find out about the device with server side code and what with frontend code? What plugins and or packages do you recommend?
+14. Give us an example of Vue *created()* and *mounted()* as you applied it in your last app. Do explain why this was set up this way.
+15. Form Validation - How do I validate a zip Dutch code / email address / password w 15 chars, at least one lower, upper case letter, one special char and one number?
+16. SEO issues in SPA - How do you deal with this with Vue routing to register users with Google Analytics?
+17. When registering a tablet or mobile as a quest to your application what can you find out about the device with server side code and what with frontend code? What plugins and or packages do you recommend?
 
 ## Sources
 
