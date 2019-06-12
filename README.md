@@ -16,6 +16,8 @@ Laravel Developer Interview Questions to be used for interviewing potential Lara
 8. What is Laravel Eloquent?
 9. What are Laravel Facades? Why should we use them? How did you use one last time around?
 10. What are Laravel Service Providers used for? Give an example in one of your projects?
+11. Name 5 Laravel Packages you have used the most and can heartily recommend.
+12. Axios Errors - How do you debug them?
 
 ## Sources
 
