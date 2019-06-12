@@ -4,7 +4,7 @@ Laravel Developer Interview Questions to be used for interviewing potential Lara
 
 ##General
 
-1. What is your Laravel experience like? Is Laravel populair in  Rajkot?
+1. What is your Laravel experience like? Is Laravel populair in x?
 2. Describe a typical working day in your life. Do you work at home or elsewhere? What hours do you keep?
 3. Why did you become a developer?
 
