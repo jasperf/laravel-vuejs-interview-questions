@@ -19,6 +19,6 @@ Laravel Developer Interview Questions to be used for interviewing potential Lara
 
 ## Sources
 
-https://www.onlineinterviewquestions.com/laravel-interview-questions/
-https://codingcompiler.com/laravel-interview-questions-answers/
-https://codetiburon.com/how-to-choose-the-best-laravel-developers/
+* https://www.onlineinterviewquestions.com/laravel-interview-questions/
+* https://codingcompiler.com/laravel-interview-questions-answers/
+* https://codetiburon.com/how-to-choose-the-best-laravel-developers/
