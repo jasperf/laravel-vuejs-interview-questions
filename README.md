@@ -13,11 +13,11 @@ Laravel Developer Interview Questions to be used for interviewing potential Lara
 5. What type of problems did you have working with Laravel or VueJS projects and how did you solve them?
 6. How is Type Hinting used in Laravel?
 7. Name the main difference between Laravel 4 and Laravel 5.x
-8. What is Laravel Eloquent?
+8. What is Laravel Eloquent? Why is it nice to have for development?
 9. What are Laravel Facades? Why should we use them? How did you use one last time around?
 10. What are Laravel Service Providers used for? Give an example in one of your projects?
 11. Name 5 Laravel Packages you have used the most and can heartily recommend.
-12. Axios Errors - How do you debug them?
+12. Axios Errors - How do you debug them? What tools do you use for it?
 
 ## Code Questions
 
