@@ -1,4 +1,4 @@
-# Laravel Interview Questions
+# Laravel Vue JS Interview Questions
 Laravel Developer Interview Questions to be used for interviewing potential Laravel Developers. VueJs related questions will also be included here for frontend work.
 
 
