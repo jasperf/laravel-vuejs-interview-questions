@@ -20,14 +20,15 @@ Laravel Developer Interview Questions to be used for interviewing potential Lara
 12. Database Migrations - What is so useful about them?
 13. Axios Errors - How do you debug them? What tools do you use for it?
 14. How is the Vue Js Browser support these days?
+15. How do you perform testing in vuejs & Laravel?
 
 ## Code Questions
 
-15. Give us an example of Vue *created()* and *mounted()* as you applied it in your last app. Do explain why this was set up this way.
-16. Form Validation - How do I validate a zip Dutch code / email address / password w 15 chars, at least one lower, upper case letter, one special char and one number?
-17. SEO issues in SPA - How do you deal with this with Vue routing to register users with Google Analytics?
-18. When registering a tablet or mobile as a quest to your application what can you find out about the device with server side code and what with frontend code? What plugins and or packages do you recommend?
-19.  Vue Key Modifier - give an example of one used in one of your projects
+16. Give us an example of Vue *created()* and *mounted()* as you applied it in your last app. Do explain why this was set up this way.
+17. Form Validation - How do I validate a zip Dutch code / email address / password w 15 chars, at least one lower, upper case letter, one special char and one number?
+18. SEO issues in SPA - How do you deal with this with Vue routing to register users with Google Analytics?
+19. When registering a tablet or mobile as a quest to your application what can you find out about the device with server side code and what with frontend code? What plugins and or packages do you recommend?
+20.  Vue Key Modifier - give an example of one used in one of your projects
 ```
 Route::group(['prefix' => 'dashboard', 'middleware' => ['auth', 'subcheck'], 'namespace' => 'Dashboard'], function () {
 ```
