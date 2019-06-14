@@ -37,6 +37,7 @@ Route::group(['prefix' => 'dashboard', 'middleware' => ['auth', 'subcheck'], 'na
 ```
 
 do for routes included in that code part in *web.php*? What is a prefix for? What is a group in this case?
+
 8. You need to add add a new private checkbox (private or not) to the dashboard for a site. Checked site will be private. How would you go about adding this new option to the dashboard and storing it to an existing database table?
 
 ## Sources
