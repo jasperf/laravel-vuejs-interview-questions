@@ -21,14 +21,17 @@ Laravel Developer Interview Questions to be used for interviewing potential Lara
 13. Axios Errors - How do you debug them? What tools do you use for it?
 14. How is the Vue Js Browser support these days?
 15. How do you perform testing in vuejs & Laravel?
+16. What is your favorite feature of Laravel?
 
 ## Code Questions
 
-16. Give us an example of Vue *created()* and *mounted()* as you applied it in your last app. Do explain why this was set up this way.
-17. Form Validation - How do I validate a zip Dutch code / email address / password w 15 chars, at least one lower, upper case letter, one special char and one number?
-18. SEO issues in SPA - How do you deal with this with Vue routing to register users with Google Analytics?
-19. When registering a tablet or mobile as a quest to your application what can you find out about the device with server side code and what with frontend code? What plugins and or packages do you recommend?
-20.  Vue Key Modifier - give an example of one used in one of your projects
+1. I've already created a database table that I want to use with Laravel's ORM. How would I setup a class to do that?
+2. Laravel comes with a PHP CLI called artisan. What is your favorite artisan command?
+3. Give us an example of Vue *created()* and *mounted()* as you applied it in your last app. Do explain why this was set up this way.
+4. Form Validation - How do I validate a zip Dutch code / email address / password w 15 chars, at least one lower, upper case letter, one special char and one number?
+5.  SEO issues in SPA - How do you deal with this with Vue routing to register users with Google Analytics?
+6.  When registering a tablet or mobile as a quest to your application what can you find out about the device with server side code and what with frontend code? What plugins and or packages do you recommend?
+7.   Vue Key Modifier - give an example of one used in one of your projects
 ```
 Route::group(['prefix' => 'dashboard', 'middleware' => ['auth', 'subcheck'], 'namespace' => 'Dashboard'], function () {
 ```
@@ -40,3 +43,4 @@ do for routes included in that code part in *web.php*? What is a prefix for? Wha
 * https://codingcompiler.com/laravel-interview-questions-answers/
 * https://codetiburon.com/how-to-choose-the-best-laravel-developers/
 * https://github.com/sudheerj/vuejs-interview-questions
+* https://gist.github.com/lukevers/32566dd2c7e6b02fa0d2
