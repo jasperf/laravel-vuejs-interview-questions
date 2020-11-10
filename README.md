@@ -59,3 +59,4 @@ Explain in plain English what this issue is and how you would resolve this
 * https://github.com/sudheerj/vuejs-interview-questions
 * https://gist.github.com/lukevers/32566dd2c7e6b02fa0d2
 * https://gist.github.com/jamespfarrell/f09cb120ee87f8030b7f3cdcd5b710a5
+* https://github.com/smart48/vuejs-interview-questions
