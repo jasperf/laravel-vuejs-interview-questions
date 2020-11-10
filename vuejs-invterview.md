@@ -1,8 +1,9 @@
 ## Vue Interview Questions
 
-1. Do you have any experience with VueX? What are the advantages of using VueX? What implementations have you used in your career as a VueJS Developer
+1. VueJS, what are the advantages of using this framework when you work as a frontend developer?
+2. Do you have any experience with VueX? What are the advantages of using VueX? What implementations have you used in your career as a VueJS Developer
 
-2. V If and V For Usage Issues
+3. V If and V For Usage Issues
 
 ```
 [vue/no-use-v-if-with-v-for]
@@ -11,10 +12,10 @@ The 'textModules' variable inside 'v-for' directive should be replaced with a co
 
 Explain in plain English what this issue is and how you would resolve this
 
-3. What was a VueJS setup you made in the past that you would do differently today and how so?
+4. What was a VueJS setup you made in the past that you would do differently today and how so?
 
 
-4. `Elements in iteration expect to have 'v-bind:key' directives.eslintvue/require-v-for-key` referring to 
+5. `Elements in iteration expect to have 'v-bind:key' directives.eslintvue/require-v-for-key` referring to 
 
 ```html
 <li v-for="(something, index) in someStructure" @mouseenter="mouseEntered(something)" @mouseleave="mouseLeft(something)" 
@@ -23,5 +24,5 @@ Explain in plain English what this issue is and how you would resolve this
 
 Explain in plain English what this means and What to do?
 
-5. What are common VueJS Optimizations one can do in most applications you encountered? How so?
-6.  How do you normally add docblocks to VueJS hooks and methods? Please share an example.
+6. What are common VueJS Optimizations one can do in most applications you encountered? How so?
+7.  How do you normally add docblocks to VueJS hooks and methods? Please share an example.
