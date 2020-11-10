@@ -21,6 +21,9 @@ Laravel Developer Interview Questions to be used for interviewing potential Lara
 10.  How is the Vue Js Browser support these days?
 11. How do you perform testing in vuejs & Laravel?
 12. What is your favorite feature of Laravel?
+13. Have you used VueX in projects? Examples? When to use Event Buses and when to use VueX?
+14. A project is using Laravel 6 and with LaravelShift could move to 7. Should it?
+
 
 ## Code Questions
 
@@ -38,6 +41,15 @@ Route::group(['prefix' => 'dashboard', 'middleware' => ['auth', 'subcheck'], 'na
 do for routes included in that code part in *web.php*? What is a prefix for? What is a group in this case?
 
 8. You need to add add a new private checkbox (private or not) to the dashboard for a site. Checked site will be private. How would you go about adding this new option to the dashboard and storing it to an existing database table?
+
+9. Standard Vue JS Issue:
+
+```
+[vue/no-use-v-if-with-v-for]
+The 'textModules' variable inside 'v-for' directive should be replaced with a computed property that returns filtered array instead. You should not mix 'v-for' with 'v-if'.
+```
+
+Explain in plain English what this issue is and how you would resolve this
 
 ## Sources
 
