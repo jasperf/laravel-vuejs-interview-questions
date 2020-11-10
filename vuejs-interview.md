@@ -1,7 +1,7 @@
 ## Vue Interview Questions
 
 1. VueJS, what are the advantages of using this framework when you work as a frontend developer?
-2. Do you have any experience with VueX? What are the advantages of using VueX? What implementations have you used in your career as a VueJS Developer
+2. Do you have any experience with VueX? What are the advantages of using VueX? What implementations have you used in your career as a VueJS Developer.
 
 3. V If and V For Usage Issues
 
@@ -22,7 +22,7 @@ Explain in plain English what this issue is and how you would resolve this
                 :class="activePreset(something)" :style="level1Style(something, index)">`
 ```
 
-Explain in plain English what this means and What to do?
+How would you deal with this issue?
 
 6. What are common VueJS Optimizations one can do in most applications you encountered? How so?
 7.  How do you normally add docblocks to VueJS hooks and methods? Please share an example.
