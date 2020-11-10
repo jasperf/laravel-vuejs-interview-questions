@@ -24,3 +24,4 @@ Explain in plain English what this issue is and how you would resolve this
 Explain in plain English what this means and What to do?
 
 5. What are common VueJS Optimizations one can do in most applications you encountered? How so?
+6.  How do you normally add docblocks to VueJS hooks and methods? Please share an example.
